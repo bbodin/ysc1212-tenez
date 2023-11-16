@@ -1,6 +1,8 @@
 #include <cmath>
 #include <SFML/Graphics.hpp>
 
+// Some change
+
 int WIDTH = 600;
 int square_x = 0;
 int square_y = 0;
